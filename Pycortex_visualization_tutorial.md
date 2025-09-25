@@ -316,14 +316,14 @@ cortex.quickflat.make_figure(volume, with_curvature=True, with_sulci=True, fig=f
 ![输入图片说明](/imgs/2025-09-25/u6llWYnPbyO5wxga.png)![](blob:https://stackedit.cn/aabb8a29-cc59-4d08-960f-52bc71a4595f)
 
 ## Reference<a id="reference"></a>
-[1] [A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence | Nature Neuroscience](https://www.nature.com/articles/s41593-021-00962-x)  
-[2] [Natural Scenes Dataset Website](https://naturalscenesdataset.org)
+[1] [A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence | Nature Neuroscience](https://www.nature.com/articles/s41593-021-00962-x)   
+[2] [Natural Scenes Dataset Website](https://naturalscenesdataset.org)   
 [3] [NSD Data Manual - Slite](https://cvnlab.slite.page/p/CT9Fwl4_hc/NSD-Data-Manual)
-[4] [Pycortex Documentation](https://gallantlab.org/pycortex/)
-[5] [Drawing ROIs in Inkscape for Pycortex](https://github.com/tknapen/tknapen.github.io/wiki/Drawing-ROIs-InkScape-PyCortex)
-[6] [Github: pycortex/issues/488](https://github.com/gallantlab/pycortex/issues/488).
- [7] [Using Linux with GUI on Windows 11 (WSL, SSH, Remote Desktop …) | by Elim Kwan | Medium](https://medium.com/@elimkwan/using-linux-with-gui-on-windows-11-wsl-ssh-remote-desktop-bb1959e8f2dc).
-[8] [Github: MNITemplate](https://github.com/Jfortin1/MNITemplate/blob/master/inst/extdata/MNI152_T1_1mm_Brain.nii.gz)
+[4] [Pycortex Documentation](https://gallantlab.org/pycortex/)  
+[5] [Drawing ROIs in Inkscape for Pycortex](https://github.com/tknapen/tknapen.github.io/wiki/Drawing-ROIs-InkScape-PyCortex)  
+[6] [Github: pycortex/issues/488](https://github.com/gallantlab/pycortex/issues/488)  
+ [7] [Using Linux with GUI on Windows 11 (WSL, SSH, Remote Desktop …) | by Elim Kwan | Medium](https://medium.com/@elimkwan/using-linux-with-gui-on-windows-11-wsl-ssh-remote-desktop-bb1959e8f2dc)  
+[8] [Github: MNITemplate](https://github.com/Jfortin1/MNITemplate/blob/master/inst/extdata/MNI152_T1_1mm_Brain.nii.gz)  
 
 ## Final Remarks
 
@@ -332,5 +332,5 @@ This concludes the workflow for visualizing the NSD dataset using Pycortex. Alth
 *Updated on September 25, 2025, on a gloomy rainy day.* 🌧
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYxNDU0MzRdfQ==
+eyJoaXN0b3J5IjpbLTExOTAzMDkzMF19
 -->
