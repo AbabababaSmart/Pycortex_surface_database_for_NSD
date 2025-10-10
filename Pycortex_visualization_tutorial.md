@@ -318,7 +318,7 @@ cortex.quickflat.make_figure(volume, with_curvature=True, with_sulci=True, fig=f
 ## Reference<a id="reference"></a>
 [1] [A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence | Nature Neuroscience](https://www.nature.com/articles/s41593-021-00962-x)   
 [2] [Natural Scenes Dataset Website](https://naturalscenesdataset.org)   
-[3] [NSD Data Manual - Slite](https://cvnlab.slite.page/p/CT9Fwl4_hc/NSD-Data-Manual)
+[3] [NSD Data Manual - Slite](https://cvnlab.slite.page/p/CT9Fwl4_hc/NSD-Data-Manual)  
 [4] [Pycortex Documentation](https://gallantlab.org/pycortex/)  
 [5] [Drawing ROIs in Inkscape for Pycortex](https://github.com/tknapen/tknapen.github.io/wiki/Drawing-ROIs-InkScape-PyCortex)  
 [6] [Github: pycortex/issues/488](https://github.com/gallantlab/pycortex/issues/488)  
